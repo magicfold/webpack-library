@@ -1,6 +1,6 @@
 {
   "name": "@magicfold/webpack-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "number2word",
   "main": "dist/webpack-numbers.js",
   "scripts": {
