@@ -2,7 +2,7 @@
   "name": "@magicfold/webpack-library",
   "version": "1.0.0",
   "description": "number2word",
-  "main": "index.js",
+  "main": "dist/webpack-numbers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
