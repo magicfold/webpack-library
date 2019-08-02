@@ -1,10 +1,13 @@
 
 
-## webpack创建library
+# webpack创建library
+[![npm (scoped)](https://img.shields.io/npm/v/@magicfold/webpack-library)](https://github.com/magicfold/webpack-library)
 
-[创建library](https://www.webpackjs.com/guides/author-libraries/)
+[![npm (scoped)](https://img.shields.io/bundlephobia/min/@magicfold/webpack-library)](https://github.com/magicfold/webpack-library)
 
-### 解释
+### webpack文档[创建library](https://www.webpackjs.com/guides/author-libraries/)
+
+### 文件解释
 
 #### --package.json
 
