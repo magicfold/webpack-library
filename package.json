@@ -14,7 +14,7 @@
   "author": "magicfold",
   "license": "ISC",
   "devDependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "webpack": "4.38.0",
     "webpack-cli": "3.3.6"
   }
